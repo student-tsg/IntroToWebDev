@@ -1,2 +1,3 @@
-# IntroToWebDevelopment
-This repository provides the examples and source materials used in the Intro To Web Dev course.
+# Introduction to Web Development
+
+Examples and source materials for The Software Guild's _Introduction to Web Development_ course.
